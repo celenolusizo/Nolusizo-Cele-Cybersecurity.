@@ -1,22 +1,48 @@
-# Hello, I'm Nolusizo Cele
+# Hello, I'm Nolusizo Cele 👋
 
+## Introduction
 
-# Introduction
+I am an aspiring Cybersecurity Analyst with a strong passion for technology, digital security, and solving real-world problems. I recently completed hands-on cybersecurity training and projects focused on threat analysis, phishing investigations, API security, and security operations practices.
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+## Objective
 
-# Objective
+My goal is to build a career in Cybersecurity, specifically within a Security Operations Center (SOC) environment as a Tier 1 SOC Analyst. I am continuously developing my skills in threat detection, incident response, vulnerability assessment, and security monitoring through practical projects and continuous learning.
 
-My journey in data protection has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analys
+## Skills
 
-Skills
-
-| Skill                                         | Associated Project         |
+| Skill | Associated Project |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
+| SIEM Implementation & Log Analysis | Detection Lab |
+| Network Traffic Monitoring & Threat Detection | Detection Lab |
+| Security Automation with Shuffle SOAR | SOC Automation Lab |
+| Incident Response Planning & Execution | SOC Automation Lab |
+| Phishing Email Analysis | Phishing Investigation Project |
+| API Security Risk Analysis | SaaS API Security Project |
+| Vulnerability Assessment | Web Security Testing Project |
+| GitHub Documentation & Reporting | Cybersecurity Portfolio Projects |
+
+## Tools & Technologies
+
+- Wireshark  
+- Splunk  
+- Shuffle SOAR  
+- Python  
+- Git & GitHub  
+- Linux  
+- OpenVAS  
+- Burp Suite  
+- Nmap  
+
+## Certifications & Training
+
+- Cybersecurity Internship – Future Interns  
+- Practical Cybersecurity Projects & Labs  
+- Continuous Self-Learning in SOC Operations & Threat Analysis  
+
+## Connect With Me
+
+- LinkedIn: www.linkedin.com/in/nolusizo-cele
+- GitHub: https://github.com/yourusername
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
